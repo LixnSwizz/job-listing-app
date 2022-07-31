@@ -26,7 +26,7 @@
 </head>
 
 <body class="mb-48">
-  <nav class="flex justify-between items-center mb-4">
+  <nav class="flex justify-between items-center mb-4 bg-red-100">
     <a href="/"><img class="w-24" src="{{asset('images/logo.png')}}" alt="" class="logo" /></a>
     <ul class="flex space-x-6 mr-6 text-lg">
       @auth
